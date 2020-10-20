@@ -24,7 +24,6 @@ read(arg,*) case
 print*, "case", case
 
 select case(case)
-
 case(1)
 print*, "ejecutar shell"
 case(2)
